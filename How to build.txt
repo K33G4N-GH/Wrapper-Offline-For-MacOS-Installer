@@ -1,0 +1,4 @@
+https://gist.github.com/jadeatucker/5382343
+
+For Chromium: Retrieve from this link and drag Chromium.app into this folder.
+https://github.com/kramred/ungoogled-chromium-macos/releases/download/87.0.4280.141-1.1/ungoogled-chromium_87.0.4280.141-1.1_macos.dmg
